@@ -1,4 +1,4 @@
-package id.ac.politeknikharber.praktikum10_afinaufalsetiawan.catatan
+package id.ac.politeknikharber.praktikum10_adityayudharemarais.catatan
 
 import android.app.Application
 import android.os.AsyncTask

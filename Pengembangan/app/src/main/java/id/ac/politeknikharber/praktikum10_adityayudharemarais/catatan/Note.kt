@@ -1,4 +1,4 @@
-package id.ac.politeknikharber.praktikum10_afinaufalsetiawan.catatan
+package id.ac.politeknikharber.praktikum10_adityayudharemarais.catatan
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

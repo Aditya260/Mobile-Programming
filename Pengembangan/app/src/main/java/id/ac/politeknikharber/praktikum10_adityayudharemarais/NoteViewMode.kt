@@ -1,4 +1,4 @@
-package id.ac.politeknikharber.praktikum10_afinaufalsetiawan
+package id.ac.politeknikharber.praktikum10_adityayudharemarais
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
